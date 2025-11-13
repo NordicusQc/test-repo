@@ -1,2 +1,2 @@
-# test-repo
-test-repo
+# Test commit
+This is my first commit.
